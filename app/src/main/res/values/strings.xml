@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppFoodUNC</string>
+    <string name="app_title">CAFETINES UNC</string>
+    <string name="hint_user">Ingrese Usuario</string>
+    <string name="hint_pass">Ingrese Contraseña</string>
+    <string name="txt_registro">No tienes una cuenta? Registrate</string>
+    <string name="txt_login">Ingresar</string>
+</resources>
