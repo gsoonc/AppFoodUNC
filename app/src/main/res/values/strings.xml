@@ -5,4 +5,8 @@
     <string name="hint_pass">Ingrese Contraseña</string>
     <string name="txt_registro">No tienes una cuenta? Registrate</string>
     <string name="txt_login">Ingresar</string>
+    <string name="text_label_1">Inicio</string>
+    <string name="text_label2">Buscar</string>
+    <string name="text_label_3">Menú</string>
+    <string name="text_label_4">Perfil</string>
 </resources>
